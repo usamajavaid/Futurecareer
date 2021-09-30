@@ -1,0 +1,130 @@
+. body {
+	font-family:'Roboto Slab', serif;
+}
+.navbar-coustom{
+	background-color: #282e3e;
+	color: #FFF;
+	border-radius: 0px;
+	padding: 10px;
+}
+.navbar-coustom .navbar-nav>li>a{
+	color: #fff;
+	font-size: 19px;
+	margin-left: 13px;
+}
+.navbar-coustom .navbar-nav>.active>a{
+	color: #fff;
+	background-color: #82c234;
+}
+.navbar-coustom .navbar-nav>li>a:hover{
+	background-color:#82c234;
+}
+.navbar-coustom .navbar-brand{
+	color:#fff;
+	font-size: 27px;
+	margin-left:15px;
+}
+.navbar-coustom .navbar-brand:hover{
+	color:#fff;
+	font-size: 27px;
+}
+.slider{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+.wrap{
+	Width:350px;
+	height:360px;
+	margin:auto;
+	background:rgba(1,1,1,0.5);
+	color:#ffff;
+	padding:5px;
+}
+.carousel-caption{
+	color: #fff;
+	position: absolute;
+	top: 50%;
+	left: -175px;	
+}
+ b{
+	font-size: 40px;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: #82c434;
+}
+#Services{
+	font-size: 45px;
+	border-bottom-style: ridge;
+	font-weight: bold;
+	border-bottom-color: #82c434;
+}
+.col1{
+	border-style: solid;
+	border-color: #999999;
+	border-width: 1px;
+	min-height: 350px;
+}
+.icons{
+	width: 130px;
+	font-size: 60px;
+	background-color: #9d9d9d;
+	padding: 5px 10px;
+	height: 110px;
+	margin-top: -50px;
+	color: #82c434;
+}
+.btn-primary{
+	background-color: #82c434;
+	border-radius: 0px;
+	border-color: #82c434;
+}
+#about{
+	width: 100%;
+	min-height: 600px;
+	background-color: #282e3e;
+	margin-top: 50px;
+}
+#aboutWebsite{
+	font-size: 45px;border-bottom-style: ridge;border-bottom-color: #82c434;
+	position: relative;
+	top: 35px;
+	color: #fff;
+}
+#team{
+	position: relative;
+	top:40px;
+}
+#ourteam{
+	font-size: 45px;
+	border-bottom-style: ridge;
+	border-bottom-color: #82c434;
+}
+.team-member{
+	text-align: center;
+	margin-top: 5px;
+}
+.icon i{
+	font-size: 20px;
+	height: 50px;
+	width: 50px;
+	background-color: #98e698;
+	padding: 18px;
+	background-radius:50%;
+	border-radius: 50%;
+}
+.icon i:hover{
+	background-color: #46d246;
+}
+#footer{
+	width: 100%;
+	min-height: 400px;
+	background-color: #282e3e;
+	position: relative;
+	top: 150px;
+}
+
+
+
+
+
